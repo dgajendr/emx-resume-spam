@@ -1,0 +1,1 @@
+web: gunicorn emx.wsgi --log-file -
